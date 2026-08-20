@@ -1,5 +1,0 @@
-aiogram==3.7.0
-openai==1.51.2
-certifi
-python-dotenv
-aiohttp
