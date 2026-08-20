@@ -1,0 +1,4 @@
+aiogram==3.13.1
+openai
+ aiohttp
+certifi
